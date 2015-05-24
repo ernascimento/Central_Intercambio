@@ -133,11 +133,11 @@
     <Content Include="Scripts\lodash.js" />
     <Content Include="Scripts\lodash.min.js" />
     <Content Include="Scripts\MIT-LICENSE.txt" />
-    <Content Include="Scripts\msls.js" />
     <Content Include="Scripts\msls-2.5.2-vsdoc.js" />
-    <Content Include="Scripts\msls-2.5.2.js" />
+    <Content Include="Scripts\msls.js" />
     <Content Include="Scripts\msls-2.5.2.min.js" />
     <Content Include="Scripts\README.txt" />
+    <Content Include="Scripts\msls-2.5.2.js" />
     <Content Include="Scripts\winjs-1.0.js" />
     <Content Include="Scripts\winjs-1.0.min.js" />
     <Content Include="UserCode\twitterControl.js" />

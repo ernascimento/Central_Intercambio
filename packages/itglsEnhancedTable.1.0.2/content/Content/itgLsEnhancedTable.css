@@ -1,0 +1,22 @@
+﻿.itgls-sort-icon-text {
+    color: inherit;
+}
+
+.itgls-sort-element {
+    float: left;
+}
+
+.itgls-filter-icon-element {
+    float: right; 
+    padding: 0;
+}
+
+.itgls-filter-element {
+    float: right; 
+    padding-right: 10px;
+}
+
+.itgls-filter-icon-text {
+    color: inherit;
+}
+

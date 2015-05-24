@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Documents>
-    <Document FullPath="C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\Cliente_CI\Cliente_CI\Cliente_CI.HTMLClient\Properties\Client.lsml" Checksum="A0D6F04B1F4053788A8876565DC65B5C70E21F1F0063321BA2D67A54C7255A06" />
-    <Document FullPath="C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\Cliente_CI\Cliente_CI\Cliente_CI.HTMLClient\Properties\Proxies.lsml" Checksum="00C1AF4694ECDB62368D3496A4A6D2FA79EF1EE309B071440A0C7479B26539AE" />
-    <Document FullPath="C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\Cliente_CI\Cliente_CI\Cliente_CI.HTMLClient\Screens\Home.lsml" Checksum="F65E75053808D96BD9B3562D8F16F843B60B65E6D0379E9ED782AAD3645BABFF" />
-    <Document FullPath="C:\Users\Eduardo\Documents\Visual Studio 2013\Projects\Cliente_CI\Cliente_CI\Cliente_CI.HTMLClient\Screens\Reports.lsml" Checksum="43A65231356CEC890561F30AF40E3C0316D1F506203C63BEBC90DBC05DBD32A8" />
+    <Document FullPath="C:\Users\Eduardo\Documents\GitHub\Central_Intercambio\Cliente_CI.HTMLClient\Properties\Client.lsml" Checksum="A0D6F04B1F4053788A8876565DC65B5C70E21F1F0063321BA2D67A54C7255A06" />
+    <Document FullPath="C:\Users\Eduardo\Documents\GitHub\Central_Intercambio\Cliente_CI.HTMLClient\Properties\Proxies.lsml" Checksum="00C1AF4694ECDB62368D3496A4A6D2FA79EF1EE309B071440A0C7479B26539AE" />
+    <Document FullPath="C:\Users\Eduardo\Documents\GitHub\Central_Intercambio\Cliente_CI.HTMLClient\Screens\Home.lsml" Checksum="F65E75053808D96BD9B3562D8F16F843B60B65E6D0379E9ED782AAD3645BABFF" />
+    <Document FullPath="C:\Users\Eduardo\Documents\GitHub\Central_Intercambio\Cliente_CI.HTMLClient\Screens\Reports.lsml" Checksum="43A65231356CEC890561F30AF40E3C0316D1F506203C63BEBC90DBC05DBD32A8" />
   </Documents>
 </ModelDocumentManifest>

@@ -1,0 +1,60 @@
+﻿/* d3.js treemap */
+.d3-treenode {
+    border: solid 1px gray;
+    overflow: hidden;
+    position: absolute;
+    text-align: center;
+    line-height: 12px;
+    font-family: 'Segoe UI', 'Segoe WP', 'Roboto', 'Frutiger', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    color: transparent;
+    display: table;
+}
+
+.d3-treetext {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+/* d3.js bubble chart */
+.d3-bubblenode {
+    font-family: 'Segoe UI', 'Segoe WP', 'Roboto', 'Frutiger', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 11px;
+}
+
+/* d3.js heatmap */
+rect.bordered {
+    stroke: #666666;
+    stroke-width:1px;   
+}
+
+text.mono {
+    font-family: 'Segoe UI', 'Segoe WP', 'Roboto', 'Frutiger', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    fill: white;
+}
+
+text.axis {
+    fill: white;
+}
+
+/* d3.js timeline */
+svg {
+    font-family: 'Segoe UI', 'Segoe WP', 'Roboto', 'Frutiger', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    fill: white;
+    overflow-x: hidden;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #999999;
+    shape-rendering: crispEdges;
+}
+
+.brush .extent {
+    stroke: #fff;
+    fill-opacity: .125;
+    shape-rendering: crispEdges;
+}

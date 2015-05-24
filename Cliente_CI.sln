@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "Cliente_CI.HTMLClient", "Cliente_CI.HTMLClient\Cliente_CI.HTMLClient.jsproj", "{0B45BC3C-43EA-4BB0-860B-3DF120D47A6A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://erangelnascimento.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = Cliente_CI.HTMLClient\\Cliente_CI.HTMLClient.jsproj
+		SccProjectName0 = Cliente_CI.HTMLClient
+		SccAuxPath0 = https://erangelnascimento.visualstudio.com/defaultcollection
+		SccLocalPath0 = Cliente_CI.HTMLClient
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B45BC3C-43EA-4BB0-860B-3DF120D47A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B45BC3C-43EA-4BB0-860B-3DF120D47A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B45BC3C-43EA-4BB0-860B-3DF120D47A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B45BC3C-43EA-4BB0-860B-3DF120D47A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
